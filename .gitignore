@@ -1,0 +1,6 @@
+venv/
+info/
+__pycache__/
+.env
+proceso hunty.code-workspace
+dazzling-howl-417914-eec6c32bc7be.json

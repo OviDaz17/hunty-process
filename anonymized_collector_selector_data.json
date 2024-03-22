@@ -1,0 +1,1307 @@
+{
+  "673dc174bbdffa3d88a4c57a804781e98f86d00b730fa829d832b9753e7a3779": {
+    "brief_score_explanation": "El candidato no proporcion\u00f3 informaci\u00f3n espec\u00edfica sobre su motivaci\u00f3n, experiencia o nivel educativo, lo cual hace imposible evaluar su idoneidad para el puesto. Sin embargo, cumple con los requisitos de ubicaci\u00f3n y experiencia en atenci\u00f3n al p\u00fablico.",
+    "discarded": "False",
+    "modified_date": "2024-01-25 14:03:41.509436",
+    "question_answers": {
+      "6b121e51865742678437cf22fdef67bb": {
+        "answer": "No especificado",
+        "order": 5,
+        "text": "\u00bfQu\u00e9 es lo que mas te motiva de trabajar en [EMPRESA]?",
+        "type": "Qualifying"
+      },
+      "8e39ba0b638a459aa5323aca5350f38c": {
+        "answer": "No especificado",
+        "order": 3,
+        "text": "M\u00e1ndame una nota de voz cont\u00e1ndome un poco mas acerca de tu experiencia en procesos de oficina, archivo y entrega de insumos y suministros.",
+        "type": "Qualifying"
+      },
+      "92636148a4a04227ac2a17c744ae4aa9": {
+        "answer": "No especificado",
+        "order": 4,
+        "text": "\u00bfCu\u00e1l es tu nivel educativo actual?",
+        "type": "Qualifying"
+      },
+      "92a6a5a99b694d398d1e591aaefe7558": {
+        "answer": "[CIUDAD]",
+        "order": 1,
+        "text": "\u00bfEn qu\u00e9 ciudad vives?",
+        "type": "Disqualifier"
+      },
+      "9cc0d3e4f0054d6a930cfcc20ca2cd5a": {
+        "answer": "[NOMBRE_COMPLETO]",
+        "order": 0,
+        "text": "\u00bfCu\u00e1l es tu nombre completo?",
+        "type": "Informative"
+      },
+      "ff1d9a3711bc496c8a734171591a8fb7": {
+        "answer": "Si",
+        "order": 2,
+        "text": "\u00bfTienes experiencia en atenci\u00f3n al p\u00fablico y manejo de documentos?",
+        "type": "Disqualifier"
+      }
+    },
+    "score": 0,
+    "who_end_conversation": "etl_job_end_conversation"
+  },
+  "5cd3713008635b158efa7406b25eabc6825e93a0625df6e96dd31aa9d857bb8e": {
+    "brief_score_explanation": "El candidato no ha proporcionado informaci\u00f3n espec\u00edfica que demuestre motivaci\u00f3n, conocimiento sobre la empresa o experiencia relevante. A pesar de esto, no hay respuestas descalificadoras que justifiquen su exclusi\u00f3n.",
+    "discarded": "False",
+    "modified_date": "2024-01-25 14:02:45.728879",
+    "question_answers": {
+      "6b121e51865742678437cf22fdef67bb": {
+        "answer": "No especificado",
+        "order": 5,
+        "text": "\u00bfQu\u00e9 es lo que mas te motiva de trabajar en [EMPRESA]?",
+        "type": "Qualifying"
+      },
+      "8e39ba0b638a459aa5323aca5350f38c": {
+        "answer": "No especificado",
+        "order": 3,
+        "text": "M\u00e1ndame una nota de voz cont\u00e1ndome un poco mas acerca de tu experiencia en procesos de oficina, archivo y entrega de insumos y suministros.",
+        "type": "Qualifying"
+      },
+      "92636148a4a04227ac2a17c744ae4aa9": {
+        "answer": "No especificado",
+        "order": 4,
+        "text": "\u00bfCu\u00e1l es tu nivel educativo actual?",
+        "type": "Qualifying"
+      },
+      "92a6a5a99b694d398d1e591aaefe7558": {
+        "answer": "[CIUDAD]",
+        "order": 1,
+        "text": "\u00bfEn qu\u00e9 ciudad vives?",
+        "type": "Disqualifier"
+      },
+      "9cc0d3e4f0054d6a930cfcc20ca2cd5a": {
+        "answer": "[NOMBRE_COMPLETO]",
+        "order": 0,
+        "text": "\u00bfCu\u00e1l es tu nombre completo?",
+        "type": "Informative"
+      },
+      "ff1d9a3711bc496c8a734171591a8fb7": {
+        "answer": "Si",
+        "order": 2,
+        "text": "\u00bfTienes experiencia en atenci\u00f3n al p\u00fablico y manejo de documentos?",
+        "type": "Disqualifier"
+      }
+    },
+    "score": 0,
+    "who_end_conversation": "etl_job_end_conversation"
+  },
+  "17fbd58ca771f94008ffb056f7226dde097a47039fb1ec9bf32872f0b6d20625": {
+    "brief_score_explanation": "El candidato tiene inter\u00e9s en crecer profesionalmente dentro de [EMPRESA] y cuenta con experiencia en atenci\u00f3n al cliente y gesti\u00f3n de contratos, lo cual es relevante para el cargo. Su nivel educativo cumple con los requisitos y vive en la ciudad donde se ofrece el trabajo.",
+    "discarded": "False",
+    "modified_date": "2024-01-24 14:20:58.890917",
+    "question_answers": {
+      "6b121e51865742678437cf22fdef67bb": {
+        "answer": "Seguir creciendo profesionalmente y seguir aprendiendo en esta gran empresa",
+        "order": 5,
+        "text": "\u00bfQu\u00e9 es lo que mas te motiva de trabajar en [EMPRESA]?",
+        "type": "Qualifying"
+      },
+      "8e39ba0b638a459aa5323aca5350f38c": {
+        "answer": "Bueno buenos d\u00edas, mucho gusto, me nombr\u00e9 de [NOMBRE_COMPLETO] para hablaros [DATO], soy de [CIUDAD], vivo exactamente siete a\u00f1os aqu\u00ed en [CIUDAD], trabaj\u00e9 en claro con [DATO] en la parte de atenci\u00f3n al cliente, como consultor integral me tocaba hacer 20 ventas cruzadas de la l\u00ednea m\u00f3vil, de la l\u00ednea hogar, ten\u00eda que hacer los contratos, que todos los contratos quedaran perfectamente dirigenciados para",
+        "order": 3,
+        "text": "M\u00e1ndame una nota de voz cont\u00e1ndome un poco mas acerca de tu experiencia en procesos de oficina, archivo y entrega de insumos y suministros.",
+        "type": "Qualifying"
+      },
+      "92636148a4a04227ac2a17c744ae4aa9": {
+        "answer": "Profesional en Negocios Internacionales",
+        "order": 4,
+        "text": "\u00bfCu\u00e1l es tu nivel educativo actual?",
+        "type": "Qualifying"
+      },
+      "92a6a5a99b694d398d1e591aaefe7558": {
+        "answer": "[CIUDAD]",
+        "order": 1,
+        "text": "\u00bfEn qu\u00e9 ciudad vives?",
+        "type": "Disqualifier"
+      },
+      "9cc0d3e4f0054d6a930cfcc20ca2cd5a": {
+        "answer": "[NOMBRE_COMPLETO]",
+        "order": 0,
+        "text": "\u00bfCu\u00e1l es tu nombre completo?",
+        "type": "Informative"
+      },
+      "ff1d9a3711bc496c8a734171591a8fb7": {
+        "answer": "Si",
+        "order": 2,
+        "text": "\u00bfTienes experiencia en atenci\u00f3n al p\u00fablico y manejo de documentos?",
+        "type": "Disqualifier"
+      }
+    },
+    "score": 70,
+    "who_end_conversation": "standard-farewell-match"
+  },
+  "cee4404e5f694ad6141cb1dda30f78df1a5ed3e0efa6def532302a78a1ed26e8": {
+    "brief_score_explanation": "El candidato cumple con el requisito educativo y vive en la ciudad de [CIUDAD], pero su motivaci\u00f3n para trabajar en [EMPRESA] no est\u00e1 claramente expresada y no proporcion\u00f3 detalles sobre su experiencia en procesos de oficina, archivo y entrega de insumos y suministros.",
+    "discarded": "False",
+    "modified_date": "2024-01-24 17:04:55.778645",
+    "question_answers": {
+      "6b121e51865742678437cf22fdef67bb": {
+        "answer": "Es una gran entidad, para poder aportar mi experiencia y mi servicio al cliente",
+        "order": 5,
+        "text": "\u00bfQu\u00e9 es lo que mas te motiva de trabajar en [EMPRESA]?",
+        "type": "Qualifying"
+      },
+      "8e39ba0b638a459aa5323aca5350f38c": {
+        "answer": "No especificado",
+        "order": 3,
+        "text": "M\u00e1ndame una nota de voz cont\u00e1ndome un poco mas acerca de tu experiencia en procesos de oficina, archivo y entrega de insumos y suministros.",
+        "type": "Qualifying"
+      },
+      "92636148a4a04227ac2a17c744ae4aa9": {
+        "answer": "Profesional administraci\u00f3n de empresas",
+        "order": 4,
+        "text": "\u00bfCu\u00e1l es tu nivel educativo actual?",
+        "type": "Qualifying"
+      },
+      "92a6a5a99b694d398d1e591aaefe7558": {
+        "answer": "[CIUDAD]",
+        "order": 1,
+        "text": "\u00bfEn qu\u00e9 ciudad vives?",
+        "type": "Disqualifier"
+      },
+      "9cc0d3e4f0054d6a930cfcc20ca2cd5a": {
+        "answer": "[NOMBRE_COMPLETO]",
+        "order": 0,
+        "text": "\u00bfCu\u00e1l es tu nombre completo?",
+        "type": "Informative"
+      },
+      "ff1d9a3711bc496c8a734171591a8fb7": {
+        "answer": "Si",
+        "order": 2,
+        "text": "\u00bfTienes experiencia en atenci\u00f3n al p\u00fablico y manejo de documentos?",
+        "type": "Disqualifier"
+      }
+    },
+    "score": 50,
+    "who_end_conversation": "standard-farewell-match"
+  },
+  "467b92deb304456a96d260db83d6fe421bcc30a5cf1113a7704de32a52301b10": {
+    "brief_score_explanation": "El candidato muestra una motivaci&oacute;n centrada en la estabilidad y el crecimiento dentro de [EMPRESA], cuenta con experiencia detallada en las &aacute;reas requeridas y tiene un nivel educativo que supera las expectativas. Reside en la ciudad de la oferta laboral y tiene experiencia en atenci&oacute;n al p&uacute;blico y manejo de documentos, cumpliendo con todos los criterios sin respuestas negativas en las preguntas descalificadoras.",
+    "discarded": "False",
+    "modified_date": "2024-01-24 15:29:25.795582",
+    "question_answers": {
+      "6b121e51865742678437cf22fdef67bb": {
+        "answer": "Lo que m&aacute;s me motiva de trabajar en [EMPRESA] es la estabilidad laboral y la posibilidad de ascender dentro de la organizaci&oacute;n, aprovechando mis capacidades y estudios en una empresa reconocida.",
+        "order": 5,
+        "text": "&iquest;Qu&eacute; es lo que mas te motiva de trabajar en [EMPRESA]?",
+        "type": "Qualifying"
+      },
+      "8e39ba0b638a459aa5323aca5350f38c": {
+        "answer": "En mi pen&uacute;ltimo trabajo en [DATO] en el tema de financiamiento para estudiantes, trataba todos los temas de oficinas de manejo de bases de datos, programar citas, asesoramiento, y en mi &uacute;ltimo trabajo en la alcald&iacute;a, estaba en el &aacute;rea de contrataci&oacute;n, manejando documentos, actas, entrega de insumos y suministros para emprendimientos de v&iacute;ctimas de conflicto armado, incluyendo papeler&iacute;a, maquinaria, elementos de cocina y alimentos, asegurando la entrega con fotograf&iacute;as y firmas de actas de entrega.",
+        "order": 3,
+        "text": "M&aacute;ndame una nota de voz cont&aacute;ndome un poco mas acerca de tu experiencia en procesos de oficina, archivo y entrega de insumos y suministros.",
+        "type": "Qualifying"
+      },
+      "92636148a4a04227ac2a17c744ae4aa9": {
+        "answer": "Soy profesional en [DATO]",
+        "order": 4,
+        "text": "&iquest;Cu&aacute;l es tu nivel educativo actual?",
+        "type": "Qualifying"
+      },
+      "92a6a5a99b694d398d1e591aaefe7558": {
+        "answer": "[CIUDAD]",
+        "order": 1,
+        "text": "&iquest;En qu&eacute; ciudad vives?",
+        "type": "Disqualifier"
+      },
+      "9cc0d3e4f0054d6a930cfcc20ca2cd5a": {
+        "answer": "[NOMBRE_COMPLETO]",
+        "order": 0,
+        "text": "&iquest;Cu&aacute;l es tu nombre completo?",
+        "type": "Informative"
+      },
+      "ff1d9a3711bc496c8a734171591a8fb7": {
+        "answer": "S&iacute;, tengo experiencia en atenci&oacute;n al p&uacute;blico y manejo de documentos. He trabajado en una empresa de eventos deportivos realizando capacitaciones y atenci&oacute;n al p&uacute;blico, y en la alcald&iacute;a manejando documentos y actas en el &aacute;rea de contrataci&oacute;n.",
+        "order": 2,
+        "text": "&iquest;Tienes experiencia en atenci&oacute;n al p&uacute;blico y manejo de documentos?",
+        "type": "Disqualifier"
+      }
+    },
+    "score": 83,
+    "who_end_conversation": "standard-farewell-match"
+  },
+  "36f256f0c14392d372137b7874d33e347d0a948683093784dbbc3e49f02531de": {
+    "brief_score_explanation": "El candidato demuestra un claro entendimiento de los valores de [EMPRESA] y tiene experiencia en tareas administrativas y atenci\\u00f3n al cliente. Aunque est\\u00e1 en proceso de finalizar sus estudios, cumple con los requisitos m\\u00ednimos de educaci\\u00f3n y experiencia requeridos para el cargo.",
+    "discarded": "False",
+    "modified_date": "2024-01-24 13:24:57.151158",
+    "question_answers": {
+      "6b121e51865742678437cf22fdef67bb": {
+        "answer": "El compromiso social de [EMPRESA], su impacto positivo en la comunidad y el ambiente de trabajo colaborativo. Tambi\\u00e9n la oportunidad de crecimiento internamente que se puede llegar a tener.",
+        "order": 5,
+        "text": "\\u00bfQu\\u00e9 es lo que mas te motiva de trabajar en [EMPRESA]?",
+        "type": "Qualifying"
+      },
+      "8e39ba0b638a459aa5323aca5350f38c": {
+        "answer": "Muy buenos d\\u00edas en la [INSTITUCION_EDUCATIVA] estuve aproximadamente unos tres a\\u00f1os como asistencia administrativa, resuci\\u00f3nista. All\\u00ed mis tareas eran recibir personal, brindarles a los clientes, la informaci\\u00f3n adecuada de cada carrera que estuvieron interesados, ya sea presencial, por tel\\u00e9fono, por chat",
+        "order": 3,
+        "text": "M\\u00e1ndame una nota de voz cont\\u00e1ndome un poco mas acerca de tu experiencia en procesos de oficina, archivo y entrega de insumos y suministros.",
+        "type": "Qualifying"
+      },
+      "92636148a4a04227ac2a17c744ae4aa9": {
+        "answer": "T\\u00e9cnico bachiller- estudiante en proceso de tesis (administraci\\u00f3n de empresas).",
+        "order": 4,
+        "text": "\\u00bfCu\\u00e1l es tu nivel educativo actual?",
+        "type": "Qualifying"
+      },
+      "92a6a5a99b694d398d1e591aaefe7558": {
+        "answer": "[CIUDAD]",
+        "order": 1,
+        "text": "\\u00bfEn qu\\u00e9 ciudad vives?",
+        "type": "Disqualifier"
+      },
+      "9cc0d3e4f0054d6a930cfcc20ca2cd5a": {
+        "answer": "[NOMBRE_COMPLETO]",
+        "order": 0,
+        "text": "\\u00bfCu\\u00e1l es tu nombre completo?",
+        "type": "Informative"
+      },
+      "ff1d9a3711bc496c8a734171591a8fb7": {
+        "answer": "Si",
+        "order": 2,
+        "text": "\\u00bfTienes experiencia en atenci\\u00f3n al p\\u00fablico y manejo de documentos?",
+        "type": "Disqualifier"
+      }
+    },
+    "score": 80,
+    "who_end_conversation": "standard-farewell-match"
+  },
+  "cd00dc29b5c5e5fb660945d12255f9a110e4d643a73059fbae2f9335ce8b8264": {
+    "brief_score_explanation": "El candidato muestra inter\u00e9s en la estabilidad y crecimiento, pero su nivel educativo no cumple con el m\u00ednimo requerido y su experiencia no est\u00e1 detallada.",
+    "discarded": "False",
+    "modified_date": "2024-01-24 14:02:37.997423",
+    "question_answers": {
+      "6b121e51865742678437cf22fdef67bb": {
+        "answer": "[DATO] es una empresa importante, donde se puede evidenciar estabilidad laboral en sus empleados. Deseo aplicar todo mi conocimiento y quiero crecimiento laboral y profesional.",
+        "order": 5,
+        "text": "\u00bfQu\u00e9 es lo que mas te motiva de trabajar en [DATO]?",
+        "type": "Qualifying"
+      },
+      "8e39ba0b638a459aa5323aca5350f38c": {
+        "answer": "Si, cuento con experiencia en atenci\u00f3n al p\u00fablico y manejo de documentos. Atenci\u00f3n al cliente de aproximadamente 3 a\u00f1os. Manejo de documentos, en todas las empresas en las que he laborado, exigen el manejo de documentos.",
+        "order": 3,
+        "text": "M\u00e1ndame una nota de voz cont\u00e1ndome un poco mas acerca de tu experiencia en procesos de oficina, archivo y entrega de insumos y suministros.",
+        "type": "Qualifying"
+      },
+      "92636148a4a04227ac2a17c744ae4aa9": {
+        "answer": "Soy estudiante aplazada de Sociolog\u00eda",
+        "order": 4,
+        "text": "\u00bfCu\u00e1l es tu nivel educativo actual?",
+        "type": "Qualifying"
+      },
+      "92a6a5a99b694d398d1e591aaefe7558": {
+        "answer": "[CIUDAD]",
+        "order": 1,
+        "text": "\u00bfEn qu\u00e9 ciudad vives?",
+        "type": "Disqualifier"
+      },
+      "9cc0d3e4f0054d6a930cfcc20ca2cd5a": {
+        "answer": "[NOMBRE_COMPLETO]",
+        "order": 0,
+        "text": "\u00bfCu\u00e1l es tu nombre completo?",
+        "type": "Informative"
+      },
+      "ff1d9a3711bc496c8a734171591a8fb7": {
+        "answer": "Si",
+        "order": 2,
+        "text": "\u00bfTienes experiencia en atenci\u00f3n al p\u00fablico y manejo de documentos?",
+        "type": "Disqualifier"
+      }
+    },
+    "score": 57,
+    "who_end_conversation": "standard-farewell-match"
+  },
+  "60d1a00ead883aaca3c501c309e2cbf685f1cd61435241b2faeb1f3db82f7541": {
+    "brief_score_explanation": "El candidato no ha proporcionado ninguna informaci\u00f3n sobre su motivaci\u00f3n, experiencia o nivel educativo, lo cual es necesario para evaluar su idoneidad para el cargo. Adem\u00e1s, no ha especificado su ciudad de residencia ni su experiencia en atenci\u00f3n al p\u00fablico y manejo de documentos, lo que resulta en su exclusi\u00f3n del proceso.",
+    "discarded": "True",
+    "modified_date": "2024-01-26 14:03:47.541334",
+    "question_answers": {
+      "6b121e51865742678437cf22fdef67bb": {
+        "answer": "No especificado",
+        "order": 5,
+        "text": "\u00bfQu\u00e9 es lo que mas te motiva de trabajar en [EMPRESA]?",
+        "type": "Qualifying"
+      },
+      "8e39ba0b638a459aa5323aca5350f38c": {
+        "answer": "No especificado",
+        "order": 3,
+        "text": "M\u00e1ndame una nota de voz cont\u00e1ndome un poco mas acerca de tu experiencia en procesos de oficina, archivo y entrega de insumos y suministros.",
+        "type": "Qualifying"
+      },
+      "92636148a4a04227ac2a17c744ae4aa9": {
+        "answer": "No especificado",
+        "order": 4,
+        "text": "\u00bfCu\u00e1l es tu nivel educativo actual?",
+        "type": "Qualifying"
+      },
+      "92a6a5a99b694d398d1e591aaefe7558": {
+        "answer": "No especificado",
+        "order": 1,
+        "text": "\u00bfEn qu\u00e9 ciudad vives?",
+        "type": "Disqualifier"
+      },
+      "9cc0d3e4f0054d6a930cfcc20ca2cd5a": {
+        "answer": "[NOMBRE_COMPLETO]",
+        "order": 0,
+        "text": "\u00bfCu\u00e1l es tu nombre completo?",
+        "type": "Informative"
+      },
+      "ff1d9a3711bc496c8a734171591a8fb7": {
+        "answer": "No especificado",
+        "order": 2,
+        "text": "\u00bfTienes experiencia en atenci\u00f3n al p\u00fablico y manejo de documentos?",
+        "type": "Disqualifier"
+      }
+    },
+    "score": 0,
+    "who_end_conversation": "etl_job_end_conversation"
+  },
+  "8e8aa543ee96e42cb85626d06d12995c5f93cf0b92057a946d53598e694d1990": {
+    "brief_score_explanation": "El candidato no proporcion\u00f3 informaci\u00f3n alguna en sus respuestas, lo cual hace imposible evaluar su idoneidad para el puesto.",
+    "discarded": "True",
+    "modified_date": "2024-01-24 13:52:51.773101",
+    "question_answers": {
+      "6b121e51865742678437cf22fdef67bb": {
+        "answer": "No especificado",
+        "order": 5,
+        "text": "\u00bfQu\u00e9 es lo que mas te motiva de trabajar en [EMPRESA]?",
+        "type": "Qualifying"
+      },
+      "8e39ba0b638a459aa5323aca5350f38c": {
+        "answer": "No especificado",
+        "order": 3,
+        "text": "M\u00e1ndame una nota de voz cont\u00e1ndome un poco mas acerca de tu experiencia en procesos de oficina, archivo y entrega de insumos y suministros.",
+        "type": "Qualifying"
+      },
+      "92636148a4a04227ac2a17c744ae4aa9": {
+        "answer": "No especificado",
+        "order": 4,
+        "text": "\u00bfCu\u00e1l es tu nivel educativo actual?",
+        "type": "Qualifying"
+      },
+      "92a6a5a99b694d398d1e591aaefe7558": {
+        "answer": "No especificado",
+        "order": 1,
+        "text": "\u00bfEn qu\u00e9 ciudad vives?",
+        "type": "Disqualifier"
+      },
+      "9cc0d3e4f0054d6a930cfcc20ca2cd5a": {
+        "answer": "[NOMBRE_COMPLETO]",
+        "order": 0,
+        "text": "\u00bfCu\u00e1l es tu nombre completo?",
+        "type": "Informative"
+      },
+      "ff1d9a3711bc496c8a734171591a8fb7": {
+        "answer": "No especificado",
+        "order": 2,
+        "text": "\u00bfTienes experiencia en atenci\u00f3n al p\u00fablico y manejo de documentos?",
+        "type": "Disqualifier"
+      }
+    },
+    "score": 0,
+    "who_end_conversation": "standard-farewell-match"
+  },
+  "417c5647e0cc51c44517b7bb1a44ba32a98a6bc78d17db7deb540531c776a4b8": {
+    "brief_score_explanation": "El candidato ha expresado su inter\u00e9s en ayudar a la gente y trabajar en el \u00e1rea de la salud, lo cual es pertinente para la empresa. Tiene experiencia en procesos de oficina y manejo de suministros, aunque podr\u00eda haber proporcionado m\u00e1s detalles. Su nivel educativo cumple con los requisitos y vive en la ciudad donde se ofrece el trabajo. Adem\u00e1s, tiene experiencia en atenci\u00f3n al p\u00fablico y manejo de documentos.",
+    "discarded": "False",
+    "modified_date": "2024-01-31 21:53:53.976097",
+    "question_answers": {
+      "6b121e51865742678437cf22fdef67bb": {
+        "answer": "Poder ayudar a la gente, trabajar en el \u00e1rea de la salud",
+        "order": 5,
+        "text": "\u00bfQu\u00e9 es lo que mas te motiva de trabajar en [EMPRESA]?",
+        "type": "Qualifying"
+      },
+      "8e39ba0b638a459aa5323aca5350f38c": {
+        "answer": "he trabajado en [CIUDAD] con empresas del impacto manejando todos los productos de organizaci\u00f3n de documentaci\u00f3n, inventario, tambi\u00e9n en la parte del m\u00e1s enaje de los \u00edn sumos que ingresan a la empresa para la producci\u00f3n del producto.",
+        "order": 3,
+        "text": "M\u00e1ndame una nota de voz cont\u00e1ndome un poco mas acerca de tu experiencia en procesos de oficina, archivo y entrega de insumos y suministros.",
+        "type": "Qualifying"
+      },
+      "92636148a4a04227ac2a17c744ae4aa9": {
+        "answer": "Economista",
+        "order": 4,
+        "text": "\u00bfCu\u00e1l es tu nivel educativo actual?",
+        "type": "Qualifying"
+      },
+      "92a6a5a99b694d398d1e591aaefe7558": {
+        "answer": "[CIUDAD]",
+        "order": 1,
+        "text": "\u00bfEn qu\u00e9 ciudad vives?",
+        "type": "Disqualifier"
+      },
+      "9cc0d3e4f0054d6a930cfcc20ca2cd5a": {
+        "answer": "[NOMBRE_COMPLETO]",
+        "order": 0,
+        "text": "\u00bfCu\u00e1l es tu nombre completo?",
+        "type": "Informative"
+      },
+      "ff1d9a3711bc496c8a734171591a8fb7": {
+        "answer": "S\u00ed",
+        "order": 2,
+        "text": "\u00bfTienes experiencia en atenci\u00f3n al p\u00fablico y manejo de documentos?",
+        "type": "Disqualifier"
+      }
+    },
+    "score": 70,
+    "who_end_conversation": "standard-farewell-match"
+  },
+  "2ef48296f91c4a0fa9e55128121dd1141c8ab9ce9d7b1696acbe3d7acd821684": {
+    "brief_score_explanation": "El candidato ha mencionado factores de motivaci\u00f3n pero sin especificar detalles concretos. No proporcion\u00f3 informaci\u00f3n sobre su experiencia en procesos de oficina, archivo y entrega de insumos, lo cual es crucial para el puesto. Sin embargo, cumple con los requisitos educativos y tiene experiencia en atenci\u00f3n al p\u00fablico y manejo de documentos, adem\u00e1s de vivir en la ciudad del empleo.",
+    "discarded": "False",
+    "modified_date": "2024-01-24 13:42:07.389095",
+    "question_answers": {
+      "6b121e51865742678437cf22fdef67bb": {
+        "answer": "Motiva trabajar [DATO] ante todo los horarios , ambiente laboral",
+        "order": 5,
+        "text": "\u00bfQu\u00e9 es lo que mas te motiva de trabajar en [DATO]?",
+        "type": "Qualifying"
+      },
+      "8e39ba0b638a459aa5323aca5350f38c": {
+        "answer": "No especificado",
+        "order": 3,
+        "text": "M\u00e1ndame una nota de voz cont\u00e1ndome un poco mas acerca de tu experiencia en procesos de oficina, archivo y entrega de insumos y suministros.",
+        "type": "Qualifying"
+      },
+      "92636148a4a04227ac2a17c744ae4aa9": {
+        "answer": "T\u00e9cnico Auxiliar Administrativo",
+        "order": 4,
+        "text": "\u00bfCu\u00e1l es tu nivel educativo actual?",
+        "type": "Qualifying"
+      },
+      "92a6a5a99b694d398d1e591aaefe7558": {
+        "answer": "[CIUDAD]",
+        "order": 1,
+        "text": "\u00bfEn qu\u00e9 ciudad vives?",
+        "type": "Disqualifier"
+      },
+      "9cc0d3e4f0054d6a930cfcc20ca2cd5a": {
+        "answer": "[NOMBRE_COMPLETO]",
+        "order": 0,
+        "text": "\u00bfCu\u00e1l es tu nombre completo?",
+        "type": "Informative"
+      },
+      "ff1d9a3711bc496c8a734171591a8fb7": {
+        "answer": "Experiencia atenci\u00f3n al cliente m\u00e1s 4 a\u00f1os y manejo documentos parte archivo",
+        "order": 2,
+        "text": "\u00bfTienes experiencia en atenci\u00f3n al p\u00fablico y manejo de documentos?",
+        "type": "Disqualifier"
+      }
+    },
+    "score": 43,
+    "who_end_conversation": "standard-farewell-match"
+  },
+  "b1eb364062dad98fbfa639a15f638f647b29fa286c5a9393244f4aa32ff3126a": {
+    "brief_score_explanation": "El candidato no proporcion\u00f3 informaci\u00f3n relevante en ninguna de las preguntas calificativas y no confirm\u00f3 su experiencia en atenci\u00f3n al p\u00fablico y manejo de documentos, lo cual es un requisito descalificador para el puesto. Por lo tanto, no se considera apto para el cargo.",
+    "discarded": "True",
+    "modified_date": "2024-01-24 12:22:00.658850",
+    "question_answers": {
+      "6b121e51865742678437cf22fdef67bb": {
+        "answer": "No especificado",
+        "order": 5,
+        "text": "\u00bfQu\u00e9 es lo que mas te motiva de trabajar en [DATO]?",
+        "type": "Qualifying"
+      },
+      "8e39ba0b638a459aa5323aca5350f38c": {
+        "answer": "No especificado",
+        "order": 3,
+        "text": "M\u00e1ndame una nota de voz cont\u00e1ndome un poco mas acerca de tu experiencia en procesos de oficina, archivo y entrega de insumos y suministros.",
+        "type": "Qualifying"
+      },
+      "92636148a4a04227ac2a17c744ae4aa9": {
+        "answer": "No especificado",
+        "order": 4,
+        "text": "\u00bfCu\u00e1l es tu nivel educativo actual?",
+        "type": "Qualifying"
+      },
+      "92a6a5a99b694d398d1e591aaefe7558": {
+        "answer": "[CIUDAD]",
+        "order": 1,
+        "text": "\u00bfEn qu\u00e9 ciudad vives?",
+        "type": "Disqualifier"
+      },
+      "9cc0d3e4f0054d6a930cfcc20ca2cd5a": {
+        "answer": "[NOMBRE_COMPLETO]",
+        "order": 0,
+        "text": "\u00bfCu\u00e1l es tu nombre completo?",
+        "type": "Informative"
+      },
+      "ff1d9a3711bc496c8a734171591a8fb7": {
+        "answer": "No especificado",
+        "order": 2,
+        "text": "\u00bfTienes experiencia en atenci\u00f3n al p\u00fablico y manejo de documentos?",
+        "type": "Disqualifier"
+      }
+    },
+    "score": 0,
+    "who_end_conversation": "open-ai-end-conversation-function"
+  },
+  "35e816d71c50d40dae1835d162ae6caf3e560c469809cc8b712d21e98906e457": {
+    "brief_score_explanation": "Los candidatos han demostrado una motivaci\u00f3n alineada con los valores y beneficios de la empresa, poseen experiencia relevante en las funciones requeridas para el cargo y tienen un nivel educativo que supera los requisitos m\u00ednimos. Adem\u00e1s, ambos viven en la ciudad donde se ubica el trabajo y tienen experiencia en atenci\u00f3n al p\u00fablico y manejo de documentos, cumpliendo con los criterios no excluyentes.",
+    "discarded": "False",
+    "modified_date": "2024-01-24 14:54:35.928250",
+    "question_answers": {
+      "6b121e51865742678437cf22fdef67bb": {
+        "answer": "[DATO] en una excelente empresa. Estoy seguro que voy a encontrar un muy buen clima laboral. Puedo desarrollarme c\u00f3mo profesional y escalar laboralmente. Es una entidad que ofrece varios beneficios, tanto personal, profesional, laboral y familiar.",
+        "order": 5,
+        "text": "\u00bfQu\u00e9 es lo que mas te motiva de trabajar en [DATO]?",
+        "type": "Qualifying"
+      },
+      "8e39ba0b638a459aa5323aca5350f38c": {
+        "answer": "En cuanto a los procesos de oficina me he desarrollado de la siguiente manera en las experiencias laborales que he tenido: [DATO]: Es una fundaci\u00f3n que trabaja de la mano con la secretaria de integraci\u00f3n social, era la persona encargada de todo el tema administrativo y contable. En cuanto a lo administrativo estaba encargado del archivo en general, archivo que ten\u00eda que ser entregado al final de la licitaci\u00f3n en el archivo general de la secretaria. Este archivo se manejaba tanto f\u00edsico como digital. Adicionalmente ten\u00eda c\u00f3mo funci\u00f3n el tema de las planillas de seguridad social, realizaci\u00f3n de contratos, contrataci\u00f3n de personal, gestionar mensualmente la lista de insumos para la aprobaci\u00f3n por parte del director",
+        "order": 3,
+        "text": "M\u00e1ndame una nota de voz cont\u00e1ndome un poco mas acerca de tu experiencia en procesos de oficina, archivo y entrega de insumos y suministros.",
+        "type": "Qualifying"
+      },
+      "92636148a4a04227ac2a17c744ae4aa9": {
+        "answer": "Soy profesional en Administraci\u00f3n de Empresas",
+        "order": 4,
+        "text": "\u00bfCu\u00e1l es tu nivel educativo actual?",
+        "type": "Qualifying"
+      },
+      "92a6a5a99b694d398d1e591aaefe7558": {
+        "answer": "[CIUDAD]",
+        "order": 1,
+        "text": "\u00bfEn qu\u00e9 ciudad vives?",
+        "type": "Disqualifier"
+      },
+      "9cc0d3e4f0054d6a930cfcc20ca2cd5a": {
+        "answer": "[NOMBRE_COMPLETO]",
+        "order": 0,
+        "text": "\u00bfCu\u00e1l es tu nombre completo?",
+        "type": "Informative"
+      },
+      "ff1d9a3711bc496c8a734171591a8fb7": {
+        "answer": "Claro que s\u00ed, en lo relacionado con las experiencias laborales que he tenido, he realizado funciones tales c\u00f3mo administrativas, gesti\u00f3n documental, realizaci\u00f3n de informes, servicio al cliente y tambi\u00e9n he realizado funciones contables",
+        "order": 2,
+        "text": "\u00bfTienes experiencia en atenci\u00f3n al p\u00fablico y manejo de documentos?",
+        "type": "Disqualifier"
+      }
+    },
+    "score": 90,
+    "who_end_conversation": "open-ai-end-conversation-function"
+  },
+  "e31768282dac1712c54f44dcdc6411aa1b027986a9c5616b635ba3d1799bd176": {
+    "brief_score_explanation": "El candidato no ha proporcionado ninguna informaci\u00f3n espec\u00edfica que permita evaluar su idoneidad para el puesto. Adem\u00e1s, no ha respondido a las preguntas descalificadoras, lo que resulta en su exclusi\u00f3n del proceso.",
+    "discarded": "True",
+    "modified_date": "2024-01-24 16:07:51.730124",
+    "question_answers": {
+      "6b121e51865742678437cf22fdef67bb": {
+        "answer": "No especificado",
+        "order": 5,
+        "text": "\u00bfQu\u00e9 es lo que mas te motiva de trabajar en [EMPRESA]?",
+        "type": "Qualifying"
+      },
+      "8e39ba0b638a459aa5323aca5350f38c": {
+        "answer": "No especificado",
+        "order": 3,
+        "text": "M\u00e1ndame una nota de voz cont\u00e1ndome un poco mas acerca de tu experiencia en procesos de oficina, archivo y entrega de insumos y suministros.",
+        "type": "Qualifying"
+      },
+      "92636148a4a04227ac2a17c744ae4aa9": {
+        "answer": "No especificado",
+        "order": 4,
+        "text": "\u00bfCu\u00e1l es tu nivel educativo actual?",
+        "type": "Qualifying"
+      },
+      "92a6a5a99b694d398d1e591aaefe7558": {
+        "answer": "No especificado",
+        "order": 1,
+        "text": "\u00bfEn qu\u00e9 ciudad vives?",
+        "type": "Disqualifier"
+      },
+      "9cc0d3e4f0054d6a930cfcc20ca2cd5a": {
+        "answer": "No especificado",
+        "order": 0,
+        "text": "\u00bfCu\u00e1l es tu nombre completo?",
+        "type": "Informative"
+      },
+      "ff1d9a3711bc496c8a734171591a8fb7": {
+        "answer": "No especificado",
+        "order": 2,
+        "text": "\u00bfTienes experiencia en atenci\u00f3n al p\u00fablico y manejo de documentos?",
+        "type": "Disqualifier"
+      }
+    },
+    "score": 0,
+    "who_end_conversation": "standard-farewell-match"
+  },
+  "b4428b45723fa721ee1c54a3cf5d5b20d8955ed2282b37b8e06f39036492cf0b": {
+    "brief_score_explanation": "El candidato no proporcion\u00f3 informaci\u00f3n espec\u00edfica sobre su motivaci\u00f3n, experiencia o formaci\u00f3n educativa, y no cumpli\u00f3 con los requisitos b\u00e1sicos de residencia y experiencia, lo que resulta en su exclusi\u00f3n.",
+    "discarded": "True",
+    "modified_date": "2024-01-25 14:03:20.003198",
+    "question_answers": {
+      "6b121e51865742678437cf22fdef67bb": {
+        "answer": "No especificado",
+        "order": 5,
+        "text": "\u00bfQu\u00e9 es lo que mas te motiva de trabajar en [EMPRESA]?",
+        "type": "Qualifying"
+      },
+      "8e39ba0b638a459aa5323aca5350f38c": {
+        "answer": "No especificado",
+        "order": 3,
+        "text": "M\u00e1ndame una nota de voz cont\u00e1ndome un poco mas acerca de tu experiencia en procesos de oficina, archivo y entrega de insumos y suministros.",
+        "type": "Qualifying"
+      },
+      "92636148a4a04227ac2a17c744ae4aa9": {
+        "answer": "No especificado",
+        "order": 4,
+        "text": "\u00bfCu\u00e1l es tu nivel educativo actual?",
+        "type": "Qualifying"
+      },
+      "92a6a5a99b694d398d1e591aaefe7558": {
+        "answer": "No especificado",
+        "order": 1,
+        "text": "\u00bfEn qu\u00e9 ciudad vives?",
+        "type": "Disqualifier"
+      },
+      "9cc0d3e4f0054d6a930cfcc20ca2cd5a": {
+        "answer": "[NOMBRE_COMPLETO]",
+        "order": 0,
+        "text": "\u00bfCu\u00e1l es tu nombre completo?",
+        "type": "Informative"
+      },
+      "ff1d9a3711bc496c8a734171591a8fb7": {
+        "answer": "No especificado",
+        "order": 2,
+        "text": "\u00bfTienes experiencia en atenci\u00f3n al p\u00fablico y manejo de documentos?",
+        "type": "Disqualifier"
+      }
+    },
+    "score": 0,
+    "who_end_conversation": "etl_job_end_conversation"
+  },
+  "fc66b1a85dbdee0d9245d418054a6ef357fd70dfadb1937ff85a51362d1fae99": {
+    "brief_score_explanation": "El candidato valora la reputaci\u00f3n de la empresa y las oportunidades de crecimiento profesional que ofrece, tiene experiencia en gesti\u00f3n documental aunque no est\u00e1 claramente relacionada con insumos de salud, y su nivel educativo es alto pero carece de licencia profesional.",
+    "discarded": "False",
+    "modified_date": "2024-01-24 13:51:35.488284",
+    "question_answers": {
+      "6b121e51865742678437cf22fdef67bb": {
+        "answer": "Es una entidad reconocida, con una gran trayectoria en el pa\u00eds que puede brindarme la estabilidad laboral y el crecimiento profesional y personal que estoy buscando y lo m\u00e1s importante que trabajan en diversos sectores (educaci\u00f3n, salud, ccf) que buscan el bienestar del pais",
+        "order": 5,
+        "text": "\u00bfQu\u00e9 es lo que mas te motiva de trabajar en [EMPRESA]?",
+        "type": "Qualifying"
+      },
+      "8e39ba0b638a459aa5323aca5350f38c": {
+        "answer": "Hola, bueno te comento el mielterma experiencia fue como si le eran iniciativa en una agencia de marketing digital ah\u00ed realizaba la apoy\u00f3 en iniciativa en toda la parte de la agencia operativa apoyando a todo el tema de reaccion de documentos como informes, cartas, memorando certificaciones y llamamos detenci\u00f3n y cartas comerciales, solicitudes",
+        "order": 3,
+        "text": "M\u00e1ndame una nota de voz cont\u00e1ndome un poco mas acerca de tu experiencia en procesos de oficina, archivo y entrega de insumos y suministros.",
+        "type": "Qualifying"
+      },
+      "92636148a4a04227ac2a17c744ae4aa9": {
+        "answer": "Yo soy graduada en Contauria P\u00fablica, titulada de la [INSTITUCION_EDUCATIVA] en el a\u00f1o 2015. Sin embargo, a\u00fan no cuento con mi tarjeta profesional.",
+        "order": 4,
+        "text": "\u00bfCu\u00e1l es tu nivel educativo actual?",
+        "type": "Qualifying"
+      },
+      "92a6a5a99b694d398d1e591aaefe7558": {
+        "answer": "[CIUDAD]",
+        "order": 1,
+        "text": "\u00bfEn qu\u00e9 ciudad vives?",
+        "type": "Disqualifier"
+      },
+      "9cc0d3e4f0054d6a930cfcc20ca2cd5a": {
+        "answer": "[NOMBRE_COMPLETO]",
+        "order": 0,
+        "text": "\u00bfCu\u00e1l es tu nombre completo?",
+        "type": "Informative"
+      },
+      "ff1d9a3711bc496c8a734171591a8fb7": {
+        "answer": "Si",
+        "order": 2,
+        "text": "\u00bfTienes experiencia en atenci\u00f3n al p\u00fablico y manejo de documentos?",
+        "type": "Disqualifier"
+      }
+    },
+    "score": 80,
+    "who_end_conversation": "standard-farewell-match"
+  },
+  "6030fc9319511735d269a158f7827f0ada85712190a7c72853d2239811f5b837": {
+    "brief_score_explanation": "El candidato no proporcion\u00f3 ninguna informaci\u00f3n que permitiera evaluar su experiencia, motivaci\u00f3n o nivel educativo. Adem\u00e1s, no cumpli\u00f3 con los requisitos m\u00ednimos de ubicaci\u00f3n y experiencia en atenci\u00f3n al p\u00fablico.",
+    "discarded": "True",
+    "modified_date": "2024-01-25 14:02:46.736567",
+    "question_answers": {
+      "6b121e51865742678437cf22fdef67bb": {
+        "answer": "No especificado",
+        "order": 5,
+        "text": "\u00bfQu\u00e9 es lo que mas te motiva de trabajar en [DATO]?",
+        "type": "Qualifying"
+      },
+      "8e39ba0b638a459aa5323aca5350f38c": {
+        "answer": "No especificado",
+        "order": 3,
+        "text": "M\u00e1ndame una nota de voz cont\u00e1ndome un poco mas acerca de tu experiencia en procesos de oficina, archivo y entrega de insumos y suministros.",
+        "type": "Qualifying"
+      },
+      "92636148a4a04227ac2a17c744ae4aa9": {
+        "answer": "No especificado",
+        "order": 4,
+        "text": "\u00bfCu\u00e1l es tu nivel educativo actual?",
+        "type": "Qualifying"
+      },
+      "92a6a5a99b694d398d1e591aaefe7558": {
+        "answer": "[CIUDAD]",
+        "order": 1,
+        "text": "\u00bfEn qu\u00e9 ciudad vives?",
+        "type": "Disqualifier"
+      },
+      "9cc0d3e4f0054d6a930cfcc20ca2cd5a": {
+        "answer": "[NOMBRE_COMPLETO]",
+        "order": 0,
+        "text": "\u00bfCu\u00e1l es tu nombre completo?",
+        "type": "Informative"
+      },
+      "ff1d9a3711bc496c8a734171591a8fb7": {
+        "answer": "No especificado",
+        "order": 2,
+        "text": "\u00bfTienes experiencia en atenci\u00f3n al p\u00fablico y manejo de documentos?",
+        "type": "Disqualifier"
+      }
+    },
+    "score": 0,
+    "who_end_conversation": "etl_job_end_conversation"
+  },
+  "f60fcdfc553973d5505343d1d800c0352501d457eb95032e0fa6691d1c7cdfa4": {
+    "brief_score_explanation": "El candidato ha expresado una fuerte motivaci\u00f3n por trabajar en [EMPRESA] y cuenta con experiencia y formaci\u00f3n educativa que exceden las expectativas del puesto.",
+    "discarded": "False",
+    "modified_date": "2024-01-24 14:39:22.363210",
+    "question_answers": {
+      "6b121e51865742678437cf22fdef67bb": {
+        "answer": "[EMPRESA] es una entidad que lleva muchos a\u00f1os posicionada en nuestro pa\u00eds y esto me genera un gran respaldo y seguridad en mi ambito laboral, ademas que ofrece muy buenos beneficios, esto es lo que me motiva",
+        "order": 5,
+        "text": "\u00bfQu\u00e9 es lo que mas te motiva de trabajar en [EMPRESA]?",
+        "type": "Qualifying"
+      },
+      "8e39ba0b638a459aa5323aca5350f38c": {
+        "answer": "Hola buen d\u00eda, mi experiencia en proceso de oficina ha sido lo que es el manejo de documentos, atender al clientes, responder a sus solicitudes, PQRS, manejo de archivo y clasificaci\u00f3n de la documentaci\u00f3n que llega en tablas de retenci\u00f3n de esta manera se da respuesta tambi\u00e9n a digitalizaci\u00f3n de documentos",
+        "order": 3,
+        "text": "M\u00e1ndame una nota de voz cont\u00e1ndome un poco mas acerca de tu experiencia en procesos de oficina, archivo y entrega de insumos y suministros.",
+        "type": "Qualifying"
+      },
+      "92636148a4a04227ac2a17c744ae4aa9": {
+        "answer": "Profesional en Administraci\u00f3n de Empresas",
+        "order": 4,
+        "text": "\u00bfCu\u00e1l es tu nivel educativo actual?",
+        "type": "Qualifying"
+      },
+      "92a6a5a99b694d398d1e591aaefe7558": {
+        "answer": "[CIUDAD]",
+        "order": 1,
+        "text": "\u00bfEn qu\u00e9 ciudad vives?",
+        "type": "Disqualifier"
+      },
+      "9cc0d3e4f0054d6a930cfcc20ca2cd5a": {
+        "answer": "[NOMBRE_COMPLETO]",
+        "order": 0,
+        "text": "\u00bfCu\u00e1l es tu nombre completo?",
+        "type": "Informative"
+      },
+      "ff1d9a3711bc496c8a734171591a8fb7": {
+        "answer": "Si",
+        "order": 2,
+        "text": "\u00bfTienes experiencia en atenci\u00f3n al p\u00fablico y manejo de documentos?",
+        "type": "Disqualifier"
+      }
+    },
+    "score": 90,
+    "who_end_conversation": "standard-farewell-match"
+  },
+  "76b549982ebffdea760a51f343aff9fa5a18133f5d0b05a928cf2b833b253653": {
+    "brief_score_explanation": "El candidato muestra motivaci\u00f3n por los beneficios y ubicaci\u00f3n de la empresa, tiene formaci\u00f3n t\u00e9cnica y experiencia en atenci\u00f3n al p\u00fablico.",
+    "discarded": "False",
+    "modified_date": "2024-01-24 14:49:50.801401",
+    "question_answers": {
+      "6b121e51865742678437cf22fdef67bb": {
+        "answer": "Me motiva que es una gran empresa, con mucho beneficios y servicios, su ubicaci\u00f3n es perfecta para m\u00ed.",
+        "order": 5,
+        "text": "\u00bfQu\u00e9 es lo que mas te motiva de trabajar en [EMPRESA]?",
+        "type": "Qualifying"
+      },
+      "8e39ba0b638a459aa5323aca5350f38c": {
+        "answer": "Buen d\u00eda, bueno, que tengo experiencia de archivo y de suministros porque soy t\u00e9cnico en [ESPECIALIDAD], me he manejado pues documentos, memorandos, certificados, etc\u00e9tera y en suministros pues como tal entregado paquetes en hospitales como la cl\u00ednica [NOMBRE_CLINICA]",
+        "order": 3,
+        "text": "M\u00e1ndame una nota de voz cont\u00e1ndome un poco mas acerca de tu experiencia en procesos de oficina, archivo y entrega de insumos y suministros.",
+        "type": "Qualifying"
+      },
+      "92636148a4a04227ac2a17c744ae4aa9": {
+        "answer": "t\u00e9cnico en [ESPECIALIDAD]",
+        "order": 4,
+        "text": "\u00bfCu\u00e1l es tu nivel educativo actual?",
+        "type": "Qualifying"
+      },
+      "92a6a5a99b694d398d1e591aaefe7558": {
+        "answer": "[CIUDAD]",
+        "order": 1,
+        "text": "\u00bfEn qu\u00e9 ciudad vives?",
+        "type": "Disqualifier"
+      },
+      "9cc0d3e4f0054d6a930cfcc20ca2cd5a": {
+        "answer": "[NOMBRE_COMPLETO]",
+        "order": 0,
+        "text": "\u00bfCu\u00e1l es tu nombre completo?",
+        "type": "Informative"
+      },
+      "ff1d9a3711bc496c8a734171591a8fb7": {
+        "answer": "He sido auxiliar de vehiculo, mensajero, vendedor, con mas de dos a\u00f1os de experiencia por lo tanto si tengo exp en atencion al publico",
+        "order": 2,
+        "text": "\u00bfTienes experiencia en atenci\u00f3n al p\u00fablico y manejo de documentos?",
+        "type": "Disqualifier"
+      }
+    },
+    "score": 77,
+    "who_end_conversation": "open-ai-end-conversation-function"
+  },
+  "0fadf8d7acd06b02dc37cdde4d06c67800b3fd9b0405a39f31f0495ee0ab6b47": {
+    "brief_score_explanation": "El candidato no proporcion\u00f3 informaci\u00f3n suficiente para evaluar su motivaci\u00f3n o nivel educativo y decidi\u00f3 no continuar con el proceso. Adem\u00e1s, no cumple con el requisito de experiencia en atenci\u00f3n al p\u00fablico y manejo de documentos.",
+    "discarded": "True",
+    "modified_date": "2024-01-24 13:26:50.249097",
+    "question_answers": {
+      "6b121e51865742678437cf22fdef67bb": {
+        "answer": "No especificado",
+        "order": 5,
+        "text": "\u00bfQu\u00e9 es lo que mas te motiva de trabajar en [EMPRESA]?",
+        "type": "Qualifying"
+      },
+      "8e39ba0b638a459aa5323aca5350f38c": {
+        "answer": "No quiero continuar",
+        "order": 3,
+        "text": "M\u00e1ndame una nota de voz cont\u00e1ndome un poco mas acerca de tu experiencia en procesos de oficina, archivo y entrega de insumos y suministros.",
+        "type": "Qualifying"
+      },
+      "92636148a4a04227ac2a17c744ae4aa9": {
+        "answer": "No especificado",
+        "order": 4,
+        "text": "\u00bfCu\u00e1l es tu nivel educativo actual?",
+        "type": "Qualifying"
+      },
+      "92a6a5a99b694d398d1e591aaefe7558": {
+        "answer": "[CIUDAD]",
+        "order": 1,
+        "text": "\u00bfEn qu\u00e9 ciudad vives?",
+        "type": "Disqualifier"
+      },
+      "9cc0d3e4f0054d6a930cfcc20ca2cd5a": {
+        "answer": "[NOMBRE_COMPLETO]",
+        "order": 0,
+        "text": "\u00bfCu\u00e1l es tu nombre completo?",
+        "type": "Informative"
+      },
+      "ff1d9a3711bc496c8a734171591a8fb7": {
+        "answer": "No nads",
+        "order": 2,
+        "text": "\u00bfTienes experiencia en atenci\u00f3n al p\u00fablico y manejo de documentos?",
+        "type": "Disqualifier"
+      }
+    },
+    "score": 0,
+    "who_end_conversation": "open-ai-end-conversation-function"
+  },
+  "844783b6f673e3330748b1a80f0ae21b054dac2ba6a3e84e251890b0dbb7140f": {
+    "brief_score_explanation": "El candidato tiene una conexi\u00f3n personal con [EMPRESA] y desea trabajar en el \u00e1rea financiera y administrativa, lo cual es positivo. Aunque su experiencia en el sector bancario no se alinea directamente con la gesti\u00f3n de suministros de salud, es relevante. Su nivel educativo cumple y supera los requisitos. Adem\u00e1s, vive en [CIUDAD] y afirma tener experiencia en atenci\u00f3n al p\u00fablico y manejo de documentos, sin recibir puntuaciones negativas en las preguntas descalificadoras.",
+    "discarded": "False",
+    "modified_date": "2024-01-24 16:02:59.229091",
+    "question_answers": {
+      "6b121e51865742678437cf22fdef67bb": {
+        "answer": "[EMPRESA] es un prestigiosa empresa la cual le debo tanto ya que fue mi caja de compensaci\u00f3n y siempre he querido trabajar en [EMPRESA] y tiene mucho el campo Financiero y administrativo el cual me desempe\u00f1o.",
+        "order": 5,
+        "text": "\u00bfQu\u00e9 es lo que mas te motiva de trabajar en [EMPRESA]?",
+        "type": "Qualifying"
+      },
+      "8e39ba0b638a459aa5323aca5350f38c": {
+        "answer": "Mi primera experiencia laboral fue el banco [CIUDAD] y pues \u00fanica, dur\u00e9 10 a\u00f1os como asesor comercial y es el cargo de supernamararia, cubriendo las vacantes en todo lo que fue [DATO], [DATO], [DATO]. Y tambi\u00e9n hice un poco del cargo de auxiliar de operaciones",
+        "order": 3,
+        "text": "M\u00e1ndame una nota de voz cont\u00e1ndome un poco mas acerca de tu experiencia en procesos de oficina, archivo y entrega de insumos y suministros.",
+        "type": "Qualifying"
+      },
+      "92636148a4a04227ac2a17c744ae4aa9": {
+        "answer": "actualmente soy tecn\u00f3logo en administraci\u00f3n empresarial grabado del [DATO] y estoy culminando mis estudios como profesional en la Universidad de [DATO] y en el noveno semestre",
+        "order": 4,
+        "text": "\u00bfCu\u00e1l es tu nivel educativo actual?",
+        "type": "Qualifying"
+      },
+      "92a6a5a99b694d398d1e591aaefe7558": {
+        "answer": "[CIUDAD]",
+        "order": 1,
+        "text": "\u00bfEn qu\u00e9 ciudad vives?",
+        "type": "Disqualifier"
+      },
+      "9cc0d3e4f0054d6a930cfcc20ca2cd5a": {
+        "answer": "[NOMBRE_COMPLETO]",
+        "order": 0,
+        "text": "\u00bfCu\u00e1l es tu nombre completo?",
+        "type": "Informative"
+      },
+      "ff1d9a3711bc496c8a734171591a8fb7": {
+        "answer": "Si se\u00f1ora",
+        "order": 2,
+        "text": "\u00bfTienes experiencia en atenci\u00f3n al p\u00fablico y manejo de documentos?",
+        "type": "Disqualifier"
+      }
+    },
+    "score": 73,
+    "who_end_conversation": "standard-farewell-match"
+  },
+  "dd05c95f3ce677fdaffb260f461216cae8d113c5f12f3e21e03b4e5281ff1504": {
+    "brief_score_explanation": "El candidato ha demostrado una motivaci\u00f3n clara para trabajar en [EMPRESA], tiene experiencia relevante en las tareas del puesto y posee un nivel educativo que supera los requisitos, adem\u00e1s de cumplir con la experiencia en atenci\u00f3n al p\u00fablico y manejo de documentos.",
+    "discarded": "False",
+    "modified_date": "2024-01-24 12:30:10.439950",
+    "question_answers": {
+      "6b121e51865742678437cf22fdef67bb": {
+        "answer": "El buen ambiente de trabajo y los retos que exponen en la vacante me parecen muy interesantes",
+        "order": 5,
+        "text": "\u00bfQu\u00e9 es lo que mas te motiva de trabajar en [EMPRESA]?",
+        "type": "Qualifying"
+      },
+      "8e39ba0b638a459aa5323aca5350f38c": {
+        "answer": "Tengo experiencia entregando suministros y sumos a diferentes oficinas. Estuve trabajando en una oficina de correo estatal y luego en farmacia [DATO]. Estuve tambi\u00e9n en la parte de procesos y archivos en una empresa de seguros, donde lo que entregaba era de dispensar los archivos a los diferentes lugares y dem\u00e1s cosas.",
+        "order": 3,
+        "text": "M\u00e1ndame una nota de voz cont\u00e1ndome un poco mas acerca de tu experiencia en procesos de oficina, archivo y entrega de insumos y suministros.",
+        "type": "Qualifying"
+      },
+      "92636148a4a04227ac2a17c744ae4aa9": {
+        "answer": "Soy licenciado en administraci\u00f3n de empresas recibido en la universidad [DATO]",
+        "order": 4,
+        "text": "\u00bfCu\u00e1l es tu nivel educativo actual?",
+        "type": "Qualifying"
+      },
+      "92a6a5a99b694d398d1e591aaefe7558": {
+        "answer": "[CIUDAD]",
+        "order": 1,
+        "text": "\u00bfEn qu\u00e9 ciudad vives?",
+        "type": "Disqualifier"
+      },
+      "9cc0d3e4f0054d6a930cfcc20ca2cd5a": {
+        "answer": "[NOMBRE_COMPLETO]",
+        "order": 0,
+        "text": "\u00bfCu\u00e1l es tu nombre completo?",
+        "type": "Informative"
+      },
+      "ff1d9a3711bc496c8a734171591a8fb7": {
+        "answer": "S\u00ed, [DATO]",
+        "order": 2,
+        "text": "\u00bfTienes experiencia en atenci\u00f3n al p\u00fablico y manejo de documentos?",
+        "type": "Disqualifier"
+      }
+    },
+    "score": 90,
+    "who_end_conversation": "standard-farewell-match"
+  },
+  "b28d7dfffc0e9bafb9ace52b5481032f6dc955acb7b627a047e8d3e0ad7e8ff9": {
+    "brief_score_explanation": "El candidato ha expresado su inter\u00e9s en crecer con la empresa y cuenta con experiencia administrativa pertinente. Adem\u00e1s, cumple con el requisito educativo y no presenta razones para ser descalificado.",
+    "discarded": "False",
+    "modified_date": "2024-01-24 16:08:03.483003",
+    "question_answers": {
+      "6b121e51865742678437cf22fdef67bb": {
+        "answer": "siento que pueden brindarme la oportunidad de seguir creciendo laboral y personalmente poder aprender cada dia mas",
+        "order": 5,
+        "text": "\u00bfQu\u00e9 es lo que mas te motiva de trabajar en [EMPRESA]?",
+        "type": "Qualifying"
+      },
+      "8e39ba0b638a459aa5323aca5350f38c": {
+        "answer": "Si, de hecho maneje clientes asi que tengo la experiencia en atencion he manejado procesos administrativos como el cobro de cartera el manejo de archivo, manejo de bases de datos, creacion de informes, manejo de procesos internos de la empresa, firmas de gerencia",
+        "order": 3,
+        "text": "M\u00e1ndame una nota de voz cont\u00e1ndome un poco mas acerca de tu experiencia en procesos de oficina, archivo y entrega de insumos y suministros.",
+        "type": "Qualifying"
+      },
+      "92636148a4a04227ac2a17c744ae4aa9": {
+        "answer": "estoy cursando octavo semestre de ingenieria industrial",
+        "order": 4,
+        "text": "\u00bfCu\u00e1l es tu nivel educativo actual?",
+        "type": "Qualifying"
+      },
+      "92a6a5a99b694d398d1e591aaefe7558": {
+        "answer": "[CIUDAD]",
+        "order": 1,
+        "text": "\u00bfEn qu\u00e9 ciudad vives?",
+        "type": "Disqualifier"
+      },
+      "9cc0d3e4f0054d6a930cfcc20ca2cd5a": {
+        "answer": "[NOMBRE_COMPLETO]",
+        "order": 0,
+        "text": "\u00bfCu\u00e1l es tu nombre completo?",
+        "type": "Informative"
+      },
+      "ff1d9a3711bc496c8a734171591a8fb7": {
+        "answer": "Si",
+        "order": 2,
+        "text": "\u00bfTienes experiencia en atenci\u00f3n al p\u00fablico y manejo de documentos?",
+        "type": "Disqualifier"
+      }
+    },
+    "score": 80,
+    "who_end_conversation": "standard-farewell-match"
+  },
+  "b90a13248ddd70fa0bc310abc10335e0623bd4668eae869169bb5effc8cb6344": {
+    "brief_score_explanation": "El candidato muestra motivaci\u00f3n por el crecimiento y la estabilidad, tiene experiencia en el \u00e1rea pero podr\u00eda haber proporcionado m\u00e1s detalles, y su nivel educativo cumple con los requisitos. No hay razones para excluir al candidato basado en las preguntas descalificadoras.",
+    "discarded": "False",
+    "modified_date": "2024-01-24 15:35:56.765217",
+    "question_answers": {
+      "6b121e51865742678437cf22fdef67bb": {
+        "answer": "Me motiva aceptar nuevos retos, la organizaci\u00f3n y la planificaci\u00f3n y lo m\u00e1s importante el crecimiento y la estabilidad tanto laboral como profesionalmente",
+        "order": 5,
+        "text": "\u00bfQu\u00e9 es lo que mas te motiva de trabajar en [EMPRESA]?",
+        "type": "Qualifying"
+      },
+      "8e39ba0b638a459aa5323aca5350f38c": {
+        "answer": "S\u00ed, se\u00f1or, tengo experiencia m\u00e1s o menos de dos a\u00f1os y medio. He trabajado como un [CARGO], [CARGO] y [CARGO]. Y actualmente me encuentro la hora en de con [EMPRESA] y soy una [POSICI\u00d3N].",
+        "order": 3,
+        "text": "M\u00e1ndame una nota de voz cont\u00e1ndome un poco mas acerca de tu experiencia en procesos de oficina, archivo y entrega de insumos y suministros.",
+        "type": "Qualifying"
+      },
+      "92636148a4a04227ac2a17c744ae4aa9": {
+        "answer": "Soy tecn\u00f3logo en [\u00c1REA DE ESTUDIO]",
+        "order": 4,
+        "text": "\u00bfCu\u00e1l es tu nivel educativo actual?",
+        "type": "Qualifying"
+      },
+      "92a6a5a99b694d398d1e591aaefe7558": {
+        "answer": "[CIUDAD]",
+        "order": 1,
+        "text": "\u00bfEn qu\u00e9 ciudad vives?",
+        "type": "Disqualifier"
+      },
+      "9cc0d3e4f0054d6a930cfcc20ca2cd5a": {
+        "answer": "[NOMBRE_COMPLETO]",
+        "order": 0,
+        "text": "\u00bfCu\u00e1l es tu nombre completo?",
+        "type": "Informative"
+      },
+      "ff1d9a3711bc496c8a734171591a8fb7": {
+        "answer": "S\u00ed",
+        "order": 2,
+        "text": "\u00bfTienes experiencia en atenci\u00f3n al p\u00fablico y manejo de documentos?",
+        "type": "Disqualifier"
+      }
+    },
+    "score": 70,
+    "who_end_conversation": "standard-farewell-match"
+  },
+  "530fa2403330bbf327f64dd85157698267995166bef07f4e2fc96bcaf99ec2e4": {
+    "brief_score_explanation": "El candidato ha expresado una motivaci\u00f3n centrada en los beneficios y la estabilidad que ofrece [EMPRESA]. Posee experiencia en manejo de correspondencia y archivo, y su formaci\u00f3n acad\u00e9mica en derecho cumple con los requisitos. Adem\u00e1s, reside en [CIUDAD] y tiene experiencia en atenci\u00f3n al p\u00fablico y manejo de documentos, lo cual es adecuado para el cargo.",
+    "discarded": "False",
+    "modified_date": "2024-01-24 15:53:17.392546",
+    "question_answers": {
+      "6b121e51865742678437cf22fdef67bb": {
+        "answer": "Me motiva todos los beneficios que me brinda y mejor la estabilidad y seguridad que me brinda",
+        "order": 5,
+        "text": "\u00bfQu\u00e9 es lo que mas te motiva de trabajar en [EMPRESA]?",
+        "type": "Qualifying"
+      },
+      "8e39ba0b638a459aa5323aca5350f38c": {
+        "answer": "Muy buenos d\u00edas, b\u00e1sicamente daba manejo al control de la correspondencia que ingresaba y a la correspondencia que sal\u00eda. En el tema del archivo se manejaba de acuerdo a la norma de archivo del estado.",
+        "order": 3,
+        "text": "M\u00e1ndame una nota de voz cont\u00e1ndome un poco mas acerca de tu experiencia en procesos de oficina, archivo y entrega de insumos y suministros.",
+        "type": "Qualifying"
+      },
+      "92636148a4a04227ac2a17c744ae4aa9": {
+        "answer": "Estudiante actual de s\u00e9ptimo semestre en derecho",
+        "order": 4,
+        "text": "\u00bfCu\u00e1l es tu nivel educativo actual?",
+        "type": "Qualifying"
+      },
+      "92a6a5a99b694d398d1e591aaefe7558": {
+        "answer": "[CIUDAD]",
+        "order": 1,
+        "text": "\u00bfEn qu\u00e9 ciudad vives?",
+        "type": "Disqualifier"
+      },
+      "9cc0d3e4f0054d6a930cfcc20ca2cd5a": {
+        "answer": "[NOMBRE_COMPLETO]",
+        "order": 0,
+        "text": "\u00bfCu\u00e1l es tu nombre completo?",
+        "type": "Informative"
+      },
+      "ff1d9a3711bc496c8a734171591a8fb7": {
+        "answer": "Tengo experiencia he sido secretaria de salud p\u00fablica en la secretar\u00eda de salud por 2 a\u00f1os, trabaj\u00e9 en una firma de abogados por 2 a\u00f1os y siempre manej\u00e9 atenci\u00f3n al p\u00fablico, de archivo, contestaci\u00f3n a solicitudes y apoyo en la contestaci\u00f3n de requerimientos",
+        "order": 2,
+        "text": "\u00bfTienes experiencia en atenci\u00f3n al p\u00fablico y manejo de documentos?",
+        "type": "Disqualifier"
+      }
+    },
+    "score": 73,
+    "who_end_conversation": "standard-farewell-match"
+  },
+  "57226ac912d348dd7ceffc7ec6c8dcbe8291336bcca9f359107f89e3c6941464": {
+    "brief_score_explanation": "El candidato no ha proporcionado ninguna informaci\u00f3n espec\u00edfica en sus respuestas, lo que hace imposible evaluar su idoneidad para el puesto. Adem\u00e1s, las respuestas no especificadas a las preguntas descalificadoras resultan en su exclusi\u00f3n.",
+    "discarded": "True",
+    "modified_date": "2024-01-25 14:03:27.789623",
+    "question_answers": {
+      "6b121e51865742678437cf22fdef67bb": {
+        "answer": "No especificado",
+        "order": 5,
+        "text": "\u00bfQu\u00e9 es lo que mas te motiva de trabajar en [DATO]?",
+        "type": "Qualifying"
+      },
+      "8e39ba0b638a459aa5323aca5350f38c": {
+        "answer": "No especificado",
+        "order": 3,
+        "text": "M\u00e1ndame una nota de voz cont\u00e1ndome un poco mas acerca de tu experiencia en procesos de oficina, archivo y entrega de insumos y suministros.",
+        "type": "Qualifying"
+      },
+      "92636148a4a04227ac2a17c744ae4aa9": {
+        "answer": "No especificado",
+        "order": 4,
+        "text": "\u00bfCu\u00e1l es tu nivel educativo actual?",
+        "type": "Qualifying"
+      },
+      "92a6a5a99b694d398d1e591aaefe7558": {
+        "answer": "No especificado",
+        "order": 1,
+        "text": "\u00bfEn qu\u00e9 ciudad vives?",
+        "type": "Disqualifier"
+      },
+      "9cc0d3e4f0054d6a930cfcc20ca2cd5a": {
+        "answer": "[NOMBRE_COMPLETO]",
+        "order": 0,
+        "text": "\u00bfCu\u00e1l es tu nombre completo?",
+        "type": "Informative"
+      },
+      "ff1d9a3711bc496c8a734171591a8fb7": {
+        "answer": "No especificado",
+        "order": 2,
+        "text": "\u00bfTienes experiencia en atenci\u00f3n al p\u00fablico y manejo de documentos?",
+        "type": "Disqualifier"
+      }
+    },
+    "score": 0,
+    "who_end_conversation": "etl_job_end_conversation"
+  },
+  "d95946464034fcbf1114741016a50c42bf3fcc4aa2265e77b9e79d5a8dd12f0b": {
+    "brief_score_explanation": "El candidato no ha proporcionado ninguna informaci\u00f3n espec\u00edfica que demuestre su capacidad o experiencia para el puesto. No se puede evaluar su idoneidad para el rol basado en las respuestas proporcionadas.",
+    "discarded": "False",
+    "modified_date": "2024-01-25 14:02:31.327415",
+    "question_answers": {
+      "6b121e51865742678437cf22fdef67bb": {
+        "answer": "No especificado",
+        "order": 5,
+        "text": "\u00bfQu\u00e9 es lo que mas te motiva de trabajar en [EMPRESA]?",
+        "type": "Qualifying"
+      },
+      "8e39ba0b638a459aa5323aca5350f38c": {
+        "answer": "No especificado",
+        "order": 3,
+        "text": "M\u00e1ndame una nota de voz cont\u00e1ndome un poco mas acerca de tu experiencia en procesos de oficina, archivo y entrega de insumos y suministros.",
+        "type": "Qualifying"
+      },
+      "92636148a4a04227ac2a17c744ae4aa9": {
+        "answer": "No especificado",
+        "order": 4,
+        "text": "\u00bfCu\u00e1l es tu nivel educativo actual?",
+        "type": "Qualifying"
+      },
+      "92a6a5a99b694d398d1e591aaefe7558": {
+        "answer": "[CIUDAD]",
+        "order": 1,
+        "text": "\u00bfEn qu\u00e9 ciudad vives?",
+        "type": "Disqualifier"
+      },
+      "9cc0d3e4f0054d6a930cfcc20ca2cd5a": {
+        "answer": "[NOMBRE_COMPLETO]",
+        "order": 0,
+        "text": "\u00bfCu\u00e1l es tu nombre completo?",
+        "type": "Informative"
+      },
+      "ff1d9a3711bc496c8a734171591a8fb7": {
+        "answer": "Si",
+        "order": 2,
+        "text": "\u00bfTienes experiencia en atenci\u00f3n al p\u00fablico y manejo de documentos?",
+        "type": "Disqualifier"
+      }
+    },
+    "score": 0,
+    "who_end_conversation": "etl_job_end_conversation"
+  },
+  "e94e705944bb7083b82165b56829817662852305c79b3eb7aff4aed7415d0e52": {
+    "brief_score_explanation": "El candidato muestra un buen conocimiento de la empresa y desea ser parte de ella, tiene experiencia en manejo de documentaci\u00f3n y tareas administrativas en una organizaci\u00f3n similar y cumple con el requisito educativo. No hay elementos que descalifiquen al candidato.",
+    "discarded": "False",
+    "modified_date": "2024-01-24 13:34:41.078193",
+    "question_answers": {
+      "6b121e51865742678437cf22fdef67bb": {
+        "answer": "Me gustar\u00eda trabajar con [EMPRESA] ya que es una gran empresa, y es una de las mejores cajas de compensaci\u00f3n que hay en el pa\u00eds",
+        "order": 5,
+        "text": "\u00bfQu\u00e9 es lo que mas te motiva de trabajar en [EMPRESA]?",
+        "type": "Qualifying"
+      },
+      "8e39ba0b638a459aa5323aca5350f38c": {
+        "answer": "anteriormente trabajaba en [EMPRESA_ANTERIOR], mis labores eran manejo de documentaci\u00f3n, asignaci\u00f3n de [DATO], [DATO] Administrativo. Tengo bastante experiencia.",
+        "order": 3,
+        "text": "M\u00e1ndame una nota de voz cont\u00e1ndome un poco mas acerca de tu experiencia en procesos de oficina, archivo y entrega de insumos y suministros.",
+        "type": "Qualifying"
+      },
+      "92636148a4a04227ac2a17c744ae4aa9": {
+        "answer": "Soy tecn\u00f3logo",
+        "order": 4,
+        "text": "\u00bfCu\u00e1l es tu nivel educativo actual?",
+        "type": "Qualifying"
+      },
+      "92a6a5a99b694d398d1e591aaefe7558": {
+        "answer": "[CIUDAD]",
+        "order": 1,
+        "text": "\u00bfEn qu\u00e9 ciudad vives?",
+        "type": "Disqualifier"
+      },
+      "9cc0d3e4f0054d6a930cfcc20ca2cd5a": {
+        "answer": "[NOMBRE_COMPLETO]",
+        "order": 0,
+        "text": "\u00bfCu\u00e1l es tu nombre completo?",
+        "type": "Informative"
+      },
+      "ff1d9a3711bc496c8a734171591a8fb7": {
+        "answer": "Cuento con [DATO] de experiencia",
+        "order": 2,
+        "text": "\u00bfTienes experiencia en atenci\u00f3n al p\u00fablico y manejo de documentos?",
+        "type": "Disqualifier"
+      }
+    },
+    "score": 73,
+    "who_end_conversation": "open-ai-end-conversation-function"
+  },
+  "975cb0b63b0b7e0550268d4678c1abce25e3d689c612e32cfc506c008ece8995": {
+    "brief_score_explanation": "El candidato ha mostrado una conexi\u00f3n personal con [EMPRESA] y ha tenido experiencias previas con los servicios de la empresa. Aunque su experiencia laboral no es directamente relacionada con la administraci\u00f3n de oficina o manejo de insumos de salud, tiene un nivel educativo que supera las expectativas y vive en la ciudad requerida. Adem\u00e1s, confirma tener experiencia en atenci\u00f3n al p\u00fablico y manejo de documentos.",
+    "discarded": "False",
+    "modified_date": "2024-01-24 12:57:23.823417",
+    "question_answers": {
+      "6b121e51865742678437cf22fdef67bb": {
+        "answer": "Es la caja de compensaci\u00f3n y aparte el servicio de salud que he usado toda la vida aparte cuando estuve desempleado me ayudaron con cursos de ingl\u00e9s y subsidio de desempleo en la agencia m\u00f3vil",
+        "order": 5,
+        "text": "\u00bfQu\u00e9 es lo que mas te motiva de trabajar en [EMPRESA]?",
+        "type": "Qualifying"
+      },
+      "8e39ba0b638a459aa5323aca5350f38c": {
+        "answer": "Claro, trabaje en [DATO] como mercaderista visitando las librer\u00edas de la ciudad y especialmente [DATO] donde vend\u00eda libros jur\u00eddicos y aparte tambi\u00e9n el portafolio de [DATO] realizaba inventario en las librer\u00edas tambi\u00e9n de todo el portafolio jur\u00eddico de [DATO].",
+        "order": 3,
+        "text": "M\u00e1ndame una nota de voz cont\u00e1ndome un poco mas acerca de tu experiencia en procesos de oficina, archivo y entrega de insumos y suministros.",
+        "type": "Qualifying"
+      },
+      "92636148a4a04227ac2a17c744ae4aa9": {
+        "answer": "Profesional en Administraci\u00f3n de empresas de la universidad [DATO]",
+        "order": 4,
+        "text": "\u00bfCu\u00e1l es tu nivel educativo actual?",
+        "type": "Qualifying"
+      },
+      "92a6a5a99b694d398d1e591aaefe7558": {
+        "answer": "[CIUDAD]",
+        "order": 1,
+        "text": "\u00bfEn qu\u00e9 ciudad vives?",
+        "type": "Disqualifier"
+      },
+      "9cc0d3e4f0054d6a930cfcc20ca2cd5a": {
+        "answer": "[NOMBRE_COMPLETO]",
+        "order": 0,
+        "text": "\u00bfCu\u00e1l es tu nombre completo?",
+        "type": "Informative"
+      },
+      "ff1d9a3711bc496c8a734171591a8fb7": {
+        "answer": "S\u00ed",
+        "order": 2,
+        "text": "\u00bfTienes experiencia en atenci\u00f3n al p\u00fablico y manejo de documentos?",
+        "type": "Disqualifier"
+      }
+    },
+    "score": 87,
+    "who_end_conversation": "standard-farewell-match"
+  }
+}
